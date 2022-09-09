@@ -1,0 +1,25 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidramirezrivera/asincronismo_javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "david ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidramirezrivera/asincronismo_javascript/issues"
+  },
+  "homepage": "https://github.com/davidramirezrivera/asincronismo_javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
